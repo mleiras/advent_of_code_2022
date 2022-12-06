@@ -8,3 +8,11 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 You can know more <a href="https://adventofcode.com/2022/about">here</a>.
 
 <br />
+
+## My Solutions
+
+I'm currently studying Bioinformatics at the University of Minho - Portugal. 
+
+I'm learning to program in python and this is a daily challenge that motivates me to improve my programming skills.
+
+I'm sharing my solutions with the **[ZTM community](https://github.com/zero-to-mastery/Advent-of-Code-2022)** and I'm open to feedback and suggestions for improvement.
